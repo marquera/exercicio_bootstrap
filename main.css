@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.custom-title {
+    text-align: center;
+    font-weight: bold;
+    padding: 16px;
+}
